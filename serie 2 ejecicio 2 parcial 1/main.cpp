@@ -12,5 +12,4 @@ int main() {
             cout<<b<<" + "<<i<<" Suma de los impares"<<endl;
         }
     }
-    return 0;
 }
