@@ -1,0 +1,3 @@
+C:/Users/Junior/Desktop/Ingenieria/PROGRAMACION I/serie 2 ejecicio 2 parcial 1/cmake-build-debug/CMakeFiles/serie_2_ejecicio_2_parcial_1.dir
+C:/Users/Junior/Desktop/Ingenieria/PROGRAMACION I/serie 2 ejecicio 2 parcial 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Junior/Desktop/Ingenieria/PROGRAMACION I/serie 2 ejecicio 2 parcial 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

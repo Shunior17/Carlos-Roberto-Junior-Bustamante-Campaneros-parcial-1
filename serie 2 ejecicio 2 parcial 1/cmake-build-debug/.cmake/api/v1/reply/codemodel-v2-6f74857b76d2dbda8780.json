@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "serie_2_ejecicio_2_parcial_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "serie_2_ejecicio_2_parcial_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serie_2_ejecicio_2_parcial_1-Debug-c2e682d55135a906da9c.json",
+					"name" : "serie_2_ejecicio_2_parcial_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Junior/Desktop/Ingenieria/PROGRAMACION I/serie 2 ejecicio 2 parcial 1/cmake-build-debug",
+		"source" : "C:/Users/Junior/Desktop/Ingenieria/PROGRAMACION I/serie 2 ejecicio 2 parcial 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
